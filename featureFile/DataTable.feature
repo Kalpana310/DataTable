@@ -8,4 +8,4 @@ Feature: Validate the login Page
       | John123@gmail.com | Password123 | Edge    |
       | Facebook123       | Pass@333    | firefox |
     And User click the login button
-    Then validate the outcomes result
+    Then validate the outcomes
